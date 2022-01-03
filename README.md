@@ -1,0 +1,1 @@
+# curso-practica-nextjs-aguacates
